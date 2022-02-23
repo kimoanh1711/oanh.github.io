@@ -1,0 +1,60 @@
+.chu{
+    padding: 60px 0 30px 0;
+    margin-top: 40px;
+    margin: auto;
+    width: 1000px;
+  }
+  .chu .titlepage {
+    text-align: center;
+  }
+  
+  .chu .titlepage h2 {
+    color:black;
+    margin-top: 10px;
+    
+  }
+  .chu .titlepage h2::before {
+    background-color: #000000;
+  }
+  
+  .chu .titlepage p {
+    font-size: 17px;
+    margin-top: 10px;
+    font-weight: 400px;
+    text-align: justify;
+    padding-top: 25px;
+    line-height: 1.4;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  .row .hinh {
+    text-align: center;
+    background-color: #000;
+    margin-bottom: 30px;
+  }
+  
+  .hinh figure {
+    margin: 0;
+  }
+  
+  .hinh figure img {
+    width: 100%;
+    transition: all .5s;
+  }
+  
+  /* .hinh figure img:hover {
+    opacity: 0.5;
+    cursor: pointer;
+  } */
+  .inline{
+    text-align: center;
+  }
+  .inline .hinh {
+    display: inline-block;
+    padding-right: 10px;
+  }
+  
+  
+  
+  
+  

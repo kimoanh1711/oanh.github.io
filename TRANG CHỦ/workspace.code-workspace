@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PS24636-VO KIM OANH- ASMGD1",
+			"path": ".."
+		},
+		{
+			"name": "WEB",
+			"path": "..\\..\\WEB"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PS24636-VO KIM OANH- ASMGD1"
+	}
+}
